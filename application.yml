@@ -1,7 +1,0 @@
-info:
-  description: Spring Cloud Samples123
-  url: https://github.com/spring-cloud-samples123
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8761/eureka/
